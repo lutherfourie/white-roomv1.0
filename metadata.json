@@ -1,0 +1,7 @@
+{
+  "name": "The White Room - Holodeck Portal",
+  "description": "An immersive 3D space portal experience featuring a reactive core, modular skybox shaders, and reflective environments using Three.js and React.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
